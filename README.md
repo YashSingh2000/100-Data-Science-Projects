@@ -17,4 +17,4 @@ then the project will be included (merge) into the main project repo.
 
 Anybody can suggest any changes or improvements if needed , for this one has to create the issue for that particular thing
 
-The steps will be repeated till 100 research work or project are reached.
+The steps will be repeated till 100 research work or project are reached
